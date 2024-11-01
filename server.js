@@ -5,7 +5,7 @@ const cors = require('cors');
 const app = express();
 const PORT = 3000; // You can change this to any available port you prefer
 
-// Configure CORS to allow requests from http://local.finn.no:8080
+// Configure CORS to allow requests from http://local.f.nio:8080
 app.use(cors({ origin: 'http://local.f.nio:8080' }));
 
 // Define the proxy route
