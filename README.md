@@ -22,8 +22,8 @@ Note: This CORS proxy is intended for development use only. It’s generally not
 
 Getting Started
 1. Clone the repository and navigate to the project directory.
-2. Install dependencies with npm install.
-3. Run the proxy server with node server.js.
+2. Install dependencies with `npm install`.
+3. Run the proxy server with `node server.js`.
 4. Configure your frontend to make requests to the proxy server instead of directly to the external API.
 
 ## Usage
