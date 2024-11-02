@@ -44,4 +44,4 @@ curl http://localhost:3000/proxy/http://example.com
 ```
 
 ### Options
-- Currently, we only supported method is `GET`
+- Currently, the only supported method is `GET`
